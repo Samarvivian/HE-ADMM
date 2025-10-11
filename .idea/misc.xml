@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.13 (edge_node)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.13.5 (sftp://huang@192.168.201.223:22/home/huang/.virtualenvs/edge_node/bin/python)" project-jdk-type="Python SDK" />
+</project>
